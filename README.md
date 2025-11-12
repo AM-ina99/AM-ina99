@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amina Muhammed</h1>
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Python • SQL • Power BI • Excel</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AM-ina99&label=Profile%20views&color=0e75b6&style=flat" alt="AM-ina99" /> 
-</p>
-
 ---
 
 ### 👩‍💻 About Me
@@ -26,8 +21,6 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
   <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="Postgres" />
   <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java" />
 </p>
-
-
 ---
 
 ### 🤖 AI & ML Tools & Frameworks  

@@ -26,10 +26,13 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 #### 🤖 Data Science, AI & ML
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
+  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" />
 </p>
 
 #### 📊 Visualization & Reporting

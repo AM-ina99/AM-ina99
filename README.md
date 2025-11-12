@@ -45,7 +45,7 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 #### ⚙️ Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,anaconda" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,PowerBI, " />
 </p>
 
 ---

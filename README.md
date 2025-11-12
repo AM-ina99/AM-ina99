@@ -24,29 +24,34 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
 </p>
 
-#### 🤖 Data Science, AI & ML
+
+---
+
+### 🤖 AI & ML Tools & Frameworks  
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
-  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
-  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter Notebook" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60" alt="TensorFlow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="60" alt="PyTorch" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Keras_logo.svg" width="60" alt="Keras" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Pandas_logo.svg" width="60" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/NumPy_logo.svg" width="60" alt="NumPy" />
 </p>
 
-#### 📊 Visualization & Reporting
+---
+
+### 💻 Languages & Tools  
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-00599C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-0078D4?style=for-the-badge&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter" />
 </p>
 
-#### ⚙️ Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,PowerBI, " />
-</p>
 
 ---
 

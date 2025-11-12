@@ -21,7 +21,7 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 #### 🧩 Programming & Query Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,Microsoft SQL,postgres" />
 </p>
 
 
@@ -31,8 +31,8 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="scikit-learn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Pandas_logo.svg" width="60" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/NumPy_logo.svg" width="60" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="50" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="50" alt="NumPy" />
 </p>
 
 ---
@@ -46,7 +46,6 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter" />
   <img src="https://www.svgrepo.com/show/373829/power-bi.svg" width="50" alt="Power BI" />
-
 </p>
 
 

@@ -22,7 +22,7 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 #### 🧩 Programming & Query Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python, SQL, postgres" />
+  <img src="https://skillicons.dev/icons?i=python, sqlserver, postgres" />
 </p>
 
 

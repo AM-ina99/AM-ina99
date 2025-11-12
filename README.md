@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Python • SQL • Power BI • Excel</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MennaMuhammed&label=Profile%20views&color=0e75b6&style=flat" alt="MennaMuhammed" /> 
+  <img src="https://komarev.com/ghpvc/?username=AM-ina99&label=Profile%20views&color=0e75b6&style=flat" alt="AM-ina99" /> 
 </p>
 
 ---
@@ -10,6 +10,7 @@
 ### 👩‍💻 About Me
 I'm a junior **Data Analyst and AI & ML Enthusiast** passionate about uncovering insights and transforming raw data into clear, actionable stories.  
 I have hands-on experience in **data cleaning, analysis, and dashboard creation** using **Python, SQL, Power BI, and Excel** — and I’m continuously exploring **Machine Learning** to enhance my analytical skills.
+
 
 - 🔭 Currently improving my **Power BI and SQL** reporting skills  
 - 🤖 Learning more about **AI & Machine Learning for data-driven decision making**  
@@ -21,7 +22,7 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 #### 🧩 Programming & Query Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,Microsoft SQL,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,Microsoft SQL Server,postgres" />
 </p>
 
 
@@ -30,7 +31,7 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 ### 🤖 AI & ML Tools & Frameworks  
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="scikit-learn" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="50" alt="Pandas" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="50" alt="NumPy" />
 </p>
@@ -45,7 +46,8 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter" />
-  <img src="https://www.svgrepo.com/show/373829/power-bi.svg" width="50" alt="Power BI" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" alt="Power BI" />
+
 </p>
 
 

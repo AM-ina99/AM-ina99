@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amina Muhammed</h1>
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Python • SQL • Power BI • Excel</h3>
----
+
 
 ### 👩‍💻 About Me
 I'm a junior **Data Analyst and AI & ML Enthusiast** passionate about uncovering insights and transforming raw data into clear, actionable stories.  

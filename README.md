@@ -30,26 +30,23 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 ### 🤖 AI & ML Tools & Frameworks  
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60" alt="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="60" alt="PyTorch" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="scikit-learn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Keras_logo.svg" width="60" alt="Keras" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Pandas_logo.svg" width="60" alt="Pandas" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/NumPy_logo.svg" width="60" alt="NumPy" />
 </p>
 
 ---
 
-### 💻 Languages & Tools  
+### 💻 Tools & Technologies
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="Microsoft SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter" />
+  <img src="https://www.svgrepo.com/show/373829/power-bi.svg" width="50" alt="Power BI" />
+
 </p>
 
 
@@ -70,7 +67,10 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:a.f.soudi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amina-muhammed//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/AM-ina99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/amina-muhammed" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:a.f.soudi@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail" />
+  </a>
 </p>

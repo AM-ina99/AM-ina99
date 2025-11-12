@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Menna Muhammed</h1>
+<h1 align="center">Hi 👋, I'm Amina Muhammed</h1>
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Python • SQL • Power BI • Excel</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me
-I'm a **Data Analyst and AI & ML Enthusiast** passionate about uncovering insights and transforming raw data into clear, actionable stories.  
+I'm a junior **Data Analyst and AI & ML Enthusiast** passionate about uncovering insights and transforming raw data into clear, actionable stories.  
 I have hands-on experience in **data cleaning, analysis, and dashboard creation** using **Python, SQL, Power BI, and Excel** — and I’m continuously exploring **Machine Learning** to enhance my analytical skills.
 
 - 🔭 Currently improving my **Power BI and SQL** reporting skills  
@@ -21,7 +21,7 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 #### 🧩 Programming & Query Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
 </p>
 
 #### 🤖 Data Science, AI & ML
@@ -50,12 +50,12 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MennaMuhammed&show_icons=true&theme=react" alt="Menna's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MennaMuhammed&theme=react" alt="Menna's streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AM-ina99&show_icons=true&theme=react" alt="Amina's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AM-ina99&theme=react" alt="Amina's streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MennaMuhammed&layout=compact&theme=react" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AM-ina99&layout=compact&theme=react" alt="Top Languages" width="48%"/>
 </p>
 
 ---

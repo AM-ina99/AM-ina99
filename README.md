@@ -53,13 +53,14 @@ I have hands-on experience in **data cleaning, analysis, and dashboard creation*
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AM-ina99&show_icons=true&theme=react" alt="Amina's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AM-ina99&theme=react" alt="Amina's streak" width="48%"/>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api?username=AM-ina99&show_icons=true&theme=react" alt="Amina's GitHub stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=AM-ina99&theme=react" alt="Amina's streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AM-ina99&layout=compact&theme=react" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=AM-ina99&layout=compact&theme=react" alt="Top Languages" width="48%"/>
 </p>
+
 
 ---
 

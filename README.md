@@ -7,15 +7,15 @@ I'm a junior **Data Analyst and AI & ML Enthusiast** passionate about uncovering
 I have hands-on experience in **data cleaning, analysis, and dashboard creation** using **Python, SQL, Power BI, and Excel** — and I’m continuously exploring **Machine Learning** to enhance my analytical skills.
 
 
-- 🔭 Currently improving my **Power BI and SQL** reporting skills  
-- 🤖 Learning more about **AI & Machine Learning for data-driven decision making**  
-- 🌱 Completed a **Data Analysis Scholarship** and a **real internship** focused on data analytics and data engineering  
-- 👯 Open to **remote full-time/part-time or freelance data analysis roles**
+- Currently improving my **Power BI and SQL** reporting skills  
+- Learning more about **AI & Machine Learning for data-driven decision making**  
+- Completed a **Data Analysis Scholarship** and a **real internship** focused on data analytics and data engineering  
+- Open to **remote full-time/part-time or freelance data analysis roles**
 ---
 
 ### 🧠 Tech Stack
 
-#### 🧩 Programming & Query Languages
+#### Programming & Query Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="Postgres" />

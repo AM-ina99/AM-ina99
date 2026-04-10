@@ -3,7 +3,7 @@
 
 
 ### 👩‍💻 About Me
-I'm a junior **Data Analyst and AI & ML Enthusiast** passionate about uncovering insights and transforming raw data into clear, actionable stories.  
+I'm a **Data Analyst and AI & ML Enthusiast** passionate about uncovering insights and transforming raw data into clear, actionable stories.  
 I have hands-on experience in **data cleaning, analysis, and dashboard creation** using **Python, SQL, Power BI, and Excel** — and I’m continuously exploring **Machine Learning** to enhance my analytical skills.
 
 

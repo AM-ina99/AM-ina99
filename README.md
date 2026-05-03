@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amina Muhammed</h1>
+<h1 align="center">Hi 👋, I'm Amina Mousa</h1>
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Python • SQL • Power BI • Excel</h3>
 
 

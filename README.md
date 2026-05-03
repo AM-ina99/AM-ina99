@@ -1,52 +1,58 @@
 <h1 align="center">Hi 👋, I'm Amina Mousa</h1>
-<h3 align="center">Data Analyst | AI & ML Enthusiast | Python • SQL • Power BI • Excel</h3>
+<h3 align="center">Junior Data Analyst | Data Cleaning • Validation • Structured Analysis</h3>
 
+---
 
 ### 👩‍💻 About Me
-I'm a **Data Analyst and AI & ML Enthusiast** passionate about uncovering insights and transforming raw data into clear, actionable stories.  
-I have hands-on experience in **data cleaning, analysis, and dashboard creation** using **Python, SQL, Power BI, and Excel** — and I’m continuously exploring **Machine Learning** to enhance my analytical skills.
+I am a **Junior Data Analyst** with a strong focus on **data accuracy, structure, and careful analysis**.
 
+I have hands-on experience working with **raw and inconsistent datasets**, where I clean, organize, and validate information to make it reliable and usable. I approach analysis with attention to detail, ensuring that conclusions are supported by data rather than assumptions.
 
-- Currently improving my **Power BI and SQL** reporting skills  
-- Learning more about **AI & Machine Learning for data-driven decision making**  
-- Completed a **Data Analysis Scholarship** and a **real internship** focused on data analytics and data engineering  
-- Open to **remote full-time/part-time or freelance data analysis roles**
----
+Through my training and internship experience, I have worked on transforming **fragmented spreadsheets and datasets into structured, clear outputs**, while identifying inconsistencies, gaps, and errors.
 
-### 🧠 Tech Stack
-
-#### Programming & Query Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="Postgres" />
-  <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java" />
-</p>
-
+I am particularly interested in roles where analysis is not just about producing results, but about **ensuring clarity, correctness, and trust in the data**.
 
 ---
 
-### 🤖 AI & ML Tools & Frameworks  
+### 🧩 What I Focus On
+- Cleaning and structuring raw data into usable formats  
+- Verifying data consistency and identifying anomalies  
+- Supporting analysis with clear, well-organized outputs  
+- Ensuring summaries and insights are backed by data  
+- Working carefully with incomplete or messy datasets  
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" alt="scikit-learn" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" width="50" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" width="50" alt="NumPy" />
-</p>
+---
+
+### 🧠 Skills
+
+#### Data Handling & Analysis
+- Microsoft Excel / Google Sheets  
+- SQL (data querying, filtering, validation)  
+- Data Cleaning & Preprocessing (Python - Pandas)  
+
+#### Analytical Approach
+- Attention to detail  
+- Data validation & consistency checks  
+- Structured thinking  
+- Clear documentation and reporting  
 
 ---
 
 ### 💻 Tools & Technologies
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="Microsoft SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" alt="Power BI" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" />
 </p>
 
+---
+
+### 📌 Experience & Development
+- Completed a **Data Analysis Scholarship** with practical projects  
+- Gained experience through a **data-focused internship** involving data cleaning and preparation  
+- Worked with datasets requiring **validation, restructuring, and consistency checks**  
 
 ---
 

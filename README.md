@@ -64,9 +64,11 @@ I am particularly interested in roles where analysis is not just about producing
 ---
 
 📌 *More projects are available in my repositories, covering additional work in data cleaning, validation, and analysis.*
+
+
 ---
 
-### 💼 Experience
+### Experience
 
 #### Data Analytics & Engineering Intern — Atos (Feb 2025 – May 2025)
 - Built ETL pipelines using **SQL, SSIS, and Python** to transform raw data into structured, analysis-ready formats  

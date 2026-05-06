@@ -116,7 +116,7 @@ I am particularly interested in roles where analysis is not just about producing
 
 ---
 
-### 💻 Tools & Technologies
+### Tools & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=postgres" width="50" alt="PostgreSQL" />
@@ -129,12 +129,12 @@ I am particularly interested in roles where analysis is not just about producing
 
 ---
 
-### 📫 Connect with Me
+### Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/amina-muhammed" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:a.f.soudi@gmail.com">
+  <a href="mailto:a.f.soudi@gmail.com?subject=Contact%20from%20GitHub" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" alt="Gmail" />
   </a>
 </p>

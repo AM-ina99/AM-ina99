@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Amina Mousa</h1>
-<h3 align="center">Data Analyst | Turning raw, inconsistent data into structured and reliable analysis</h3>
+<h3 align="center">Data Analyst| Business Analyst| Turning raw, inconsistent data into structured and reliable analysis</h3>
 
 ---
 
 ### About Me
-I am a **Data Analyst** with a strong focus on **data accuracy, structure, and careful analysis**.
+I am a **Data And Business Analyst** with a strong focus on **data accuracy, structure, and careful analysis**.
 
 I have hands-on experience working with **raw and inconsistent datasets**, where I clean, organize, and validate data to make it reliable and usable. I approach analysis with attention to detail, ensuring that conclusions are supported by data rather than assumptions.
 

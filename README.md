@@ -1,5 +1,4 @@
-# Hi, I'm Amina Mousa
-
+                                      # Hi, I'm Amina Mousa
 ### Data Analyst | SQL • Excel • Python
 #### Turning raw data into reliable business insights
 
@@ -8,8 +7,6 @@
 I enjoy working with messy, incomplete, and inconsistent data.
 
 My focus is on transforming raw datasets into reliable information through **data cleaning**, **validation**, **analysis**, and **quality assurance**. I enjoy investigating anomalies, asking the right questions, and ensuring every conclusion is supported by trustworthy data.
-
-Currently, I'm building my career in **Data Analytics** while expanding my expertise in **Data Engineering** through hands-on projects and continuous learning.
 
 ---
 
@@ -45,32 +42,11 @@ Currently, I'm building my career in **Data Analytics** while expanding my exper
 
 **Data Engineering**
 
-- SSIS
-- FastAPI
+- SQL
+- Pyspark
 - ETL Pipelines
-- Data Validation
-
----
-
-## Featured Projects
-
-### E-commerce ETL Pipeline
-
-Built an end-to-end ETL pipeline that transformed raw e-commerce data into validated, analysis-ready datasets using Python, SQL, SSIS, and FastAPI.
-
-### Energy Consumption Analysis
-
-Performed data cleaning, statistical analysis, anomaly detection, and built dashboards to generate actionable business insights.
-
----
-
-## Currently Learning
-
-- Advanced SQL
-- Data Engineering
-- Apache Spark
-- Cloud Technologies (Azure & AWS)
-
+- Snowflake
+- Bigquery
 ---
 
 ## Let's Connect

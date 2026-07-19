@@ -1,4 +1,4 @@
-                                      # Hi, I'm Amina Mousa
+# Hi, I'm Amina Mousa
 ### Data Analyst | SQL • Excel • Python
 #### Turning raw data into reliable business insights
 
